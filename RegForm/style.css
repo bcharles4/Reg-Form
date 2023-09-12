@@ -1,0 +1,26 @@
+* {
+
+}
+
+body {
+    background-color: darkgray;
+}
+
+.reg-container {
+    justify-content: center;
+    background-color: whitesmoke;
+    width: 600px;
+    height: 600px;
+    border-radius: 40px;    
+    margin:20px auto;
+    padding: 20px;
+}
+
+
+.reg-container h1 {
+    text-align: center;
+}
+
+.reg-container label {
+    font-weight: bold;
+} 
